@@ -1,0 +1,22 @@
+{
+    "product":[
+        {
+            "id": 1,
+            "description": "Rubber duck",
+            "cost": 2.99,
+            "price": 5
+        },
+        {
+            "id": 2,
+            "description": "Tire",
+            "cost": 100,
+            "price": 200
+        },
+        {
+            "id": 3,
+            "description": "Shovel",
+            "cost": 10,
+            "price": 25
+        }
+    ]
+}
